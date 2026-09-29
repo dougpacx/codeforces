@@ -1,0 +1,28 @@
+# Binarios e executaveis
+*.exe
+*.out
+*.app
+*.bin
+
+# Objetos compilados e bibliotecas
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+*.dll
+*.gch
+
+# Arquivos de depuracao e temporarios de compilacao
+*.pdb
+*.ilk
+*.idb
+
+# IDEs e editores
+.vscode/
+.vs/
+*.suo
+*.user
+.idea/
+cmake-build-*/
